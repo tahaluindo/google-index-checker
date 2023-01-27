@@ -20,6 +20,9 @@ Comparing Google indexation checker with other tools available:
 
 ## Set Up
 
+https://convertio.co/id/txt-csv/
+
+
 Download zip or clone repo:
 
 ```properties
