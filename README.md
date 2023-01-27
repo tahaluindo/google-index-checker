@@ -26,7 +26,7 @@ https://convertio.co/id/txt-csv/
 Download zip or clone repo:
 
 ```properties
-git clone https://github.com/alvaro-escalante/google-index-checker.git
+git clone https://github.com/tahaluindo/google-index-checker
 ```
 
 With npm
